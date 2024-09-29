@@ -56,3 +56,10 @@ git push origin feat/community/seunomedeusuario
 ### 3. Estrutura Completa
 
 Depois de seguir essas instruções, você terá um projeto open source bem estruturado com instruções claras para que outros possam contribuir facilmente. Se precisar de mais detalhes ou ajustes, estou à disposição para ajudar!
+
+
+Exemplo:
+```markdown
+## Exemplo de Contribuição
+![Exemplo de contribuição](https://link-para-uma-imagem-ou-gif.gif)
+
